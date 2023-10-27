@@ -1,3 +1,3 @@
 # CPE101
 Introduction of Computer Engineering
-This is the basic subject every computer engineering must learn.
+วิชานี้เป็นวิชาแรกที่นักศึกษาวิศวกรรมต้องเรียน
